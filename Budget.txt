@@ -1,0 +1,8 @@
+150000000.00
+Falcon 9 (left), 61000000.00
+Falcon 9 (right), 61000000.00
+Falcon 9 (center), 61000000.00
+Tesla Roadster, 200000.00
+Dummy astronaut, 2500.00
+David Bowie CD, 15.75
+Drone ship, 100000000.00
